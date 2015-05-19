@@ -1,0 +1,24 @@
+{
+  "name": "wbt",
+  "version": "0.0.1",
+  "description": "HTTP crawling toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pryzm0/wbt.git"
+  },
+  "keywords": [
+    "http",
+    "crawling",
+    "csp"
+  ],
+  "author": "Konstantin Kopkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pryzm0/wbt/issues"
+  },
+  "homepage": "https://github.com/pryzm0/wbt#readme"
+}
